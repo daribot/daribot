@@ -42,5 +42,9 @@ Bienvenido a mi perfil de GitHub.
 ![Mis estadisticas](https://github-readme-stats.vercel.app/api?username=daribot&show_icons=true&theme=radical)
 
 ---
+![Tecnologías que uso](https://media.discordapp.net/attachments/1387399941948706888/1390281220796977232/Hola_soy_zdari_.jpg?ex=6867afc9&is=68665e49&hm=ac0e2ab9692d81c46217dcd08a34a833b28e8b0eff8eeed7d778f22db7e874d1&=&format=webp&width=1470&height=735)
+---
+
+
 
 ¡Gracias por visitar mi perfil! 😊
